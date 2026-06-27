@@ -181,15 +181,6 @@ Playlist copia = original.clone();
   - Aula: *Prototype — clonagem eficiente de objetos complexos*
 - **Refactoring.Guru** — https://refactoring.guru/pt-br/design-patterns
 
----
 
-## 👨‍💻 Equipe
-
-| Nome | Função |
-|------|--------|
-|      | Desenvolvimento |
-|      | Desenvolvimento |
-
----
 
 *Projeto desenvolvido para a disciplina de Padrões de Projeto — Prof. Álvaro Magnus*
